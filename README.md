@@ -11,7 +11,7 @@ java -jar wiremock-jre8-standalone-2.33.2.jar --port 9999 --global-response-temp
 
 2) Abrir un browser y probar las siguientes direcciones: 
 
-a) http://localhost:\<puerto\>/get/this (vamos a obtener el mock test.json)
+a) http://localhost:<puerto\>/get/this (vamos a obtener el mock test.json)
 
 Ejemplo: http://localhost:9999/get/this
 
