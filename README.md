@@ -17,7 +17,7 @@ Ejemplo: http://localhost:9999/get/this
 
 Abre una página con el mensaje Here it is!
 
-b) http://localhost:\<puerto\>/api/json-data-10min.php?key=demo&locatie=<locación>
+b) http://localhost:<puerto\>/api/json-data-10min.php?key=demo&locatie=<locación>
 
 Ejemplo: http://localhost:9999/api/json-data-10min.php?key=demo&locatie=Amsterdam
 
