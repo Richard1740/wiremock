@@ -1,0 +1,30 @@
+{
+  "id" : "ffb6c58c-4de9-3df1-bf07-1abda4356044",
+  "request" : {
+    "urlPath" : "/api/json-data-10min.php",
+    "queryParameters":{
+    	"key": {
+    		"equalTo": "demo"
+    	},
+    	"locatie": {
+    		"matches": "[A-Za-z]*"
+    	}
+    
+    },
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-api-json-data-10min.php-Pgq5O.json",
+    "transformers": ["response-template"],
+    "headers" : {
+      "Server" : "nginx/1.20.1",
+      "Date" : "Mon, 05 Sep 2022 13:54:29 GMT",
+      "Content-Type" : "application/json",
+      "X-Powered-By" : "PHP/7.2.34",
+      "Access-Control-Allow-Origin" : "*",
+      "Vary" : "Accept-Encoding"
+    }
+  },
+  "uuid" : "ffb6c58c-4de9-3df1-bf07-1abda4356044"
+}
