@@ -2,7 +2,7 @@
 
 1) Ejecutar en una consola
 
-java -jar wiremock-jre8-standalone-2.33.2.jar --port<pOrt> --global-response-templating
+java -jar wiremock-jre8-standalone-2.33.2.jar --port<poort> --global-response-templating
 
 Por ejemplo: 
 
